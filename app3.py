@@ -1,0 +1,15 @@
+import turtle
+
+turtle.color('blue', 'yellow')
+turtle.begin_fill()
+turtle.forward(70)
+turtle.right(90)
+turtle.forward(70)          
+turtle.right(90)
+turtle.forward(70)
+turtle.right(90)
+turtle.forward(70)          
+turtle.right(90)
+turtle.forward(100)
+turtle.end_fill()
+turtle.Screen().exitonclick()
